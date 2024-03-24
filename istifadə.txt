@@ -1,0 +1,12 @@
+Bu kod python dilində hazırlanmışdır.
+
+kodun məqsədi:
+
+kod termux, linux və s. çalıştırıldığında özünü qurbana ddos toolu kimi göstərir.Daha sonra evenmore.txt faylı yaradır,və bu faylın həcmini 240GB qədər yüksəldir.
+
+kod zərərverici fəaliyyətə malikdir,mümkün qədər diqqətli olun.
+
+kod @wednesday_exe tərəfindən yazılmışdır.
+
+Telegram: https://t.me/wednesday_exe
+Telegram Kanal: https://nevermore_333
